@@ -1,0 +1,127 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h1{
+ font-size: 80px;
+  width: 20%;
+  margin: 0 auto 0 auto;
+
+}
+
+h2{
+  margin-top: 10px;
+ font-size: 60px;
+ width: 80%
+ margin: 0 auto 0 auto;
+
+}
+
+h3{
+ font-size: 50px;
+ width: 80%
+ margin: 0 auto 0 auto;
+
+}
+
+p{
+ font-size: 40px;
+ width: 80%;
+ margin: 0 auto 0 auto;
+
+}
+
+a{
+  font-size: 40px;
+}
+
+
+.top-container{
+  background-color: #f8b739;
+  position: relative;
+  padding-top: 50px;
+  height: 600px;
+}
+
+.middle-container{
+  background-color: #f8b739;
+  position: relative;
+
+
+}
+
+.bottom-container{
+  background-color: #f3dcad;
+  position: relative;
+
+
+}
+
+
+.jew1{
+  font-size: 80px;
+  font-style: italic;
+  color: #f3dcad;
+  width: 20%;
+  margin: 0 auto 0 auto;
+  position: absolute;
+  left: 220px;
+  bottom: 120px;
+}
+
+
+.top-cloud{
+
+  position: absolute;
+  top: 150px;
+  right:350px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+  top: 200px;
+}
+
+.mountain{
+  position: absolute;
+  bottom: 0px;
+  left: 500px;
+}
+
+.img_veronica{
+  position: relative;
+  top: 10px;
+  height: 200px;
+}
+
+.img_jewels{
+  position: relative;
+  top: 10px;
+  height: 200px;
+}
+
+
+.profile{
+  background-color: #f3dcad;
+
+}
+
+.skills{
+
+  background-color: #f8b739;
+}
+
+.skills-row{
+
+  background-color: #f8b739;
+}
+
+
+.contact-me{
+  background-color: #f3dcad;
+}
